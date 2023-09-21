@@ -33,7 +33,7 @@ main {
 .sidebar {
     border-right: solid 1px #cdcdcd;
 }
-main > figure {
+main figure {
     text-align: center;
 }
 details summary{
@@ -42,4 +42,7 @@ details summary{
 }
 caption{
     text-align: center;
+}
+.logo{
+    width: 50px 50px;
 }
