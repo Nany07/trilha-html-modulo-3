@@ -36,3 +36,10 @@ main {
 main > figure {
     text-align: center;
 }
+details summary{
+    font-style: italic;
+    color: blue;
+}
+caption{
+    text-align: center;
+}
