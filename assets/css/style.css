@@ -43,3 +43,16 @@ details summary{
 caption{
     text-align: center;
 }
+table th {
+    background-color:#cdcdcd;
+}
+table {
+    text-align: center;
+   
+}
+table tbody tr:nth-child(even) td {
+    background-color: rgb(241, 240, 240);
+}
+/* table tbody tr:hover td  {
+    background-color: rgb(228, 225, 225);
+} */
