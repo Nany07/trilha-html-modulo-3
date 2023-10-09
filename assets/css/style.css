@@ -25,8 +25,11 @@ main {
 .footer {
     min-height: 100px;
     border-top: solid 1px #cdcdcd;
+    /* font-size: 13px; */
+    padding-left: 2rem;
+    padding-right: 2rem;
 }
-.anchors {
+    .anchors {
     border-left: solid 1px #cdcdcd;
     padding-left: 15px;
 }
